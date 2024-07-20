@@ -12,8 +12,6 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 - [General Info](#general-information)
 - [Model Architecture](#model-architecture)
-- [Model Summary](#model-summary)
-- [Model Evaluation](#model-evaluation)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
 - [Collaborators](#collaborators)
